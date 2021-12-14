@@ -3,12 +3,28 @@
     background-color: black;
 }
 
+.header-bottom{
+    background-color: white;
+}
+
 .img-logosony{
     max-width: 100px;
     height: auto;
 }
 
 .img-lens{
-    max-width: 100px;
-    height: auto;
+    width: 50%;
+    height: 50%;
+}
+
+/*MAIN*/
+/*Spotlight*/
+
+#spotlight{
+    background-image: url("../img/jumbo-bg.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    
 }
