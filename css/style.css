@@ -14,7 +14,7 @@
 
 .img-lens{
     width: 50%;
-    height: 50%;
+    height: auto;
 }
 
 /*MAIN*/
@@ -27,4 +27,13 @@
     background-size: cover;
     height: 800px;
     
+}
+
+.img-returnalhero{
+    width: 50%;
+    height: auto;
+}
+
+.btn-orange{
+    background-color: #CD3D0F;
 }
