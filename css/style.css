@@ -1,3 +1,9 @@
+/*General*/
+body{
+    padding-top: 120px;
+}
+
+
 /*HEADER*/
 .header-top{
     background-color: black;
@@ -66,4 +72,20 @@
 /*PS Now*/
 #spotlight-psnow{
     background-color: #161C3B;
+}
+
+
+/*FOOTER*/
+footer{
+    background-color: #00439C;
+}
+
+.img-globe{
+    max-width: 30px;
+    height: auto;
+}
+
+.img-sie{
+    max-width: 150px;
+    height: auto;
 }
